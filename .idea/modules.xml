@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Matematyczny.iml" filepath="$PROJECT_DIR$/.idea/Matematyczny.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../01_Projekty/02_Aptiv_DRT/Skrypty/.idea/Skrypty.iml" filepath="$PROJECT_DIR$/../../../../01_Projekty/02_Aptiv_DRT/Skrypty/.idea/Skrypty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Wprowadzenie/.idea/Wprowadzenie.iml" filepath="$PROJECT_DIR$/../Wprowadzenie/.idea/Wprowadzenie.iml" />
+    </modules>
+  </component>
+</project>
